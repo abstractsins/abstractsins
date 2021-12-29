@@ -9,6 +9,7 @@
 // 2-E -- Bio Circle
 // 2-F -- Recipe Circle
 // 2-G -- Salem Circle
+// 2-H -- Resume Circle
 // 3 -- Email and Phone Click Functions
 /* END TABLE OF CONTENTS */
 
@@ -270,11 +271,18 @@ const recipes = () => {
 /* 2-G -- SALEM CIRCLE */
 const salem = () => {
     if (!$('#bio.circle').hasClass('clicked') && !$('#contact.circle').hasClass('clicked')) { // Checks if the coast is clear
-        console.log('Salem!');
-        window.open("salem.html ", "_blank");
+        window.open("salem.html", "_blank");
     }
 }
 /* END 2-G -- SALEM CIRCLE */
+
+/* 2-H -- RESUME CIRCLE */
+const resume = () => {
+    if (!$('#bio.circle').hasClass('clicked') && !$('#contact.circle').hasClass('clicked')) { // Checks if the coast is clear
+        window.open("https://abstractsins.github.io/resume", "_blank");
+    }
+}
+/* END 2-H -- RESUME CIRCLE */
 
 /* END 2 -- CIRCLE FUNCTIONS */
 
