@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abstractsins
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning as much as I can about Javascript, Node, Typescript, backend servers, CSS, APIs, and more...
-- 💞️ I’m looking to collaborate on games and web apps...
+- 👀 I love full stack development and REGEX
+- 🌱 JavaScript is like poetry
 - 📫 How to reach me: www.divs4u.com 
 
 <!---
